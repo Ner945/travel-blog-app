@@ -42,6 +42,12 @@ Frontend:
 - Run npm start
 - The frontend runs on http://localhost:3000
 
+- Sample data:
+- Run database/schema.sql first
+- Run database/sample-data.sql to add sample data
+- Demo username: demo
+- Demo password: demo1234
+
 This app was originally made using a university hosted mySQL database but its since been changed so it can run using a local mySQL database
 <img width="960" height="540" alt="Screenshot 2026-09-19 025844" src="https://github.com/user-attachments/assets/42f506c1-ead4-434f-bc16-b2f998fa4043" />
 <img width="960" height="540" alt="Screenshot 2026-09-19 025908" src="https://github.com/user-attachments/assets/964984dc-9925-4d72-a4f6-3b214d724a93" />
