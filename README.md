@@ -26,7 +26,7 @@ How to run:
 - Install Node.js
 - Install MySQL
 - Run the schema.sql file inside the database folder
-- Create a MySQL user with access to the travel_blog database
+- Create a mySQL user with access to the travel_blog database
 - Copy backend/.env.example and rename it to .env
 - Add your own database details and JWT secret to the .env file
 
@@ -42,5 +42,6 @@ Frontend:
 - Run npm start
 - The frontend runs on http://localhost:3000
 
-This app was originally made using a university hosted mySQL database but its since been changed so it can run using a local MySQL database.<img width="960" height="540" alt="Screenshot 2026-09-19 025857" src="https://github.com/user-attachments/assets/261fea7b-a6b6-4357-b652-c1b646948b72" />
-<img width="960" height="540" alt="Screenshot 2026-09-19 025908" src="https://github.com/user-attachments/assets/ab6499c8-0297-4f46-b905-643295418b08" />
+This app was originally made using a university hosted mySQL database but its since been changed so it can run using a local mySQL database
+<img width="960" height="540" alt="Screenshot 2026-09-19 025844" src="https://github.com/user-attachments/assets/42f506c1-ead4-434f-bc16-b2f998fa4043" />
+<img width="960" height="540" alt="Screenshot 2026-09-19 025908" src="https://github.com/user-attachments/assets/964984dc-9925-4d72-a4f6-3b214d724a93" />
